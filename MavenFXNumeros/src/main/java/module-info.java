@@ -1,7 +1,7 @@
-module Principal {
+module principal {
     requires javafx.controls;
     requires javafx.fxml;
 
-    opens Controller to javafx.fxml;
-    exports Principal;
+    opens controller to javafx.fxml;
+    exports principal;
 }

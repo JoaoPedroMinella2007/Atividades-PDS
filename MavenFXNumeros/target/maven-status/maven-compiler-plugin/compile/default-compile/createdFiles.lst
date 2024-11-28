@@ -1,3 +1,4 @@
-Principal\App.class
-Controller\SomarController.class
+controller\ControllerTela2.class
+controller\SomarController.class
 module-info.class
+principal\App.class
